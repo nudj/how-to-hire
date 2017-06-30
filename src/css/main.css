@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+
+.karla {
+  font-family: 'Karla', sans-serif;
+}
+
+.vc {
+  min-height: 100vh;
+}
+
+input:empty {
+  box-shadow: none;
+}
+
+.crazy-gradient {
+  background: #000000;
+  background: -webkit-linear-gradient(to right, #FF070B, #E5008D, #000000);
+  background: linear-gradient(to right, #FF070B, #E5008D, #000000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.bg-crazy-gradient {
+  background: #500031;
+  background: -webkit-linear-gradient(to right, #FF070B, #E5008D, #500031);
+  background: linear-gradient(to right, #FF070B, #E5008D, #500031);
+}
