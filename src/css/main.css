@@ -20,7 +20,7 @@ input:empty {
   -webkit-text-fill-color: transparent;
 }
 .bg-crazy-gradient {
-  background: #000000;
-  background: -webkit-linear-gradient(to right, #FF070B, #E5008D, #000000);
-  background: linear-gradient(to right, #FF070B, #E5008D, #000000);
+  background: #500031;
+  background: -webkit-linear-gradient(to right, #FF070B, #E5008D, #500031);
+  background: linear-gradient(to right, #FF070B, #E5008D, #500031);
 }
