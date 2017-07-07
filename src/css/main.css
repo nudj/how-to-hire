@@ -5,11 +5,11 @@
 
 @font-face {
   font-family: 'F37 Jan Bold';
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Bold.eot'); /* IE9 Compat Modes */
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Bold.woff') format('woff'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Bold.woff2') format('woff2'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-Bold.eot'); /* IE9 Compat Modes */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-Bold.woff') format('woff'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-Bold.woff2') format('woff2'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-Bold.ttf')  format('truetype'); /* Safari, Android, iOS */
 
   font-style:   bold;
   font-weight:  700;
@@ -17,11 +17,11 @@
 
 @font-face {
   font-family: 'F37 Jan Bold Italic';
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-BoldItalic.eot'); /* IE9 Compat Modes */
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-BoldItalic.woff') format('woff'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-BoldItalic.woff2') format('woff2'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-BoldItalic.ttf')  format('truetype'); /* Safari, Android, iOS */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-BoldItalic.eot'); /* IE9 Compat Modes */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-BoldItalic.woff') format('woff'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-BoldItalic.woff2') format('woff2'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-BoldItalic.ttf')  format('truetype'); /* Safari, Android, iOS */
 
   font-style:   italic;
   font-weight:  700;
@@ -29,11 +29,11 @@
 
 @font-face {
   font-family: 'F37 Jan Light';
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Light.eot'); /* IE9 Compat Modes */
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Light.woff') format('woff'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Light.woff2') format('woff2'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Light.ttf')  format('truetype'); /* Safari, Android, iOS */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-Light.eot'); /* IE9 Compat Modes */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-Light.woff') format('woff'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-Light.woff2') format('woff2'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-Light.ttf')  format('truetype'); /* Safari, Android, iOS */
 
   font-style:   normal;
   font-weight:  200;
@@ -41,11 +41,11 @@
 
 @font-face {
   font-family: 'F37 Jan Light Italic';
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-LightItalic.eot'); /* IE9 Compat Modes */
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-LightItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-LightItalic.woff') format('woff'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-LightItalic.woff2') format('woff2'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-LightItalic.ttf')  format('truetype'); /* Safari, Android, iOS */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-LightItalic.eot'); /* IE9 Compat Modes */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-LightItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-LightItalic.woff') format('woff'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-LightItalic.woff2') format('woff2'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-LightItalic.ttf')  format('truetype'); /* Safari, Android, iOS */
 
   font-style:   italic;
   font-weight:  200;
@@ -53,11 +53,11 @@
 
 @font-face {
   font-family: 'F37 Jan';
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Regular.eot'); /* IE9 Compat Modes */
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Regular.woff') format('woff'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Regular.woff2') format('woff2'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-Regular.eot'); /* IE9 Compat Modes */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-Regular.woff') format('woff'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-Regular.woff2') format('woff2'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-Regular.ttf')  format('truetype'); /* Safari, Android, iOS */
 
   font-style:   normal;
   font-weight:  400;
@@ -65,11 +65,11 @@
 
 @font-face {
   font-family: 'F37 Jan Italic';
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-RegularItalic.eot'); /* IE9 Compat Modes */
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-RegularItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-RegularItalic.woff') format('woff'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-RegularItalic.woff2') format('woff2'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-RegularItalic.ttf')  format('truetype'); /* Safari, Android, iOS */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-RegularItalic.eot'); /* IE9 Compat Modes */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-RegularItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-RegularItalic.woff') format('woff'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-RegularItalic.woff2') format('woff2'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-RegularItalic.ttf')  format('truetype'); /* Safari, Android, iOS */
 
   font-style:   italic;
   font-weight:  400;
@@ -77,11 +77,11 @@
 
 @font-face {
   font-family: 'F37 Jan Thin';
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Thin.eot'); /* IE9 Compat Modes */
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Thin.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Thin.woff') format('woff'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Thin.woff2') format('woff2'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-Thin.ttf')  format('truetype'); /* Safari, Android, iOS */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-Thin.eot'); /* IE9 Compat Modes */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-Thin.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-Thin.woff') format('woff'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-Thin.woff2') format('woff2'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-Thin.ttf')  format('truetype'); /* Safari, Android, iOS */
 
   font-style:   normal;
   font-weight:  200;
@@ -89,11 +89,11 @@
 
 @font-face {
   font-family: 'F37 Jan Thin Italic';
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-ThinItalic.eot'); /* IE9 Compat Modes */
-  src: url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-ThinItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-ThinItalic.woff') format('woff'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-ThinItalic.woff2') format('woff2'), /* Modern Browsers */
-       url('https://d356b6bvwhxn35.cloudfront.net/assets/fonts/F37Jan-ThinItalic.ttf')  format('truetype'); /* Safari, Android, iOS */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-ThinItalic.eot'); /* IE9 Compat Modes */
+  src: url('https://assets.nudj.co/assets/fonts/F37Jan-ThinItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-ThinItalic.woff') format('woff'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-ThinItalic.woff2') format('woff2'), /* Modern Browsers */
+       url('https://assets.nudj.co/assets/fonts/F37Jan-ThinItalic.ttf')  format('truetype'); /* Safari, Android, iOS */
 
   font-style:   italic;
   font-weight:  200;
@@ -143,14 +143,6 @@
   font-family: 'F37 Jan Thin Italic', -apple-system,
                BlinkMacSystemFont, helvetica,
                arial, sans-serif;
-}
-
-/* TODO: Delete once brand fonts are being served via cloudfront + https */
-
-@import url('https://fonts.googleapis.com/css?family=Karla');
-
-.karla {
-  font-family: 'Karla', sans-serif;
 }
 
 input:empty {
