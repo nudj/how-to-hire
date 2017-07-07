@@ -145,6 +145,10 @@
                arial, sans-serif;
 }
 
+/* TODO: Delete once brand fonts are being served via cloudfront + https */
+
+@import url('https://fonts.googleapis.com/css?family=Karla');
+
 .karla {
   font-family: 'Karla', sans-serif;
 }
