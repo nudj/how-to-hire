@@ -1,6 +1,6 @@
 # The How to Hire Handbook
 
-Repo for Robyn's hiring email course. View demo [here](https://howtohire.now.sh).
+Repo for Robyn's hiring email course. View demo [here](https://nudj-how-to-hire-ilkdicajrg.now.sh).
 
 ## Experiment Details
 
