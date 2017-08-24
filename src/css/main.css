@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Caveat|Karla');
 
+.vh100 {
+  min-height: 100vh;
+}
+
 .cursive {
   font-family: 'Caveat', cursive;
 }
