@@ -1,20 +1,20 @@
-@import url('https://fonts.googleapis.com/css?family=Caveat|Karla');
-
+@import url(https://fonts.googleapis.com/css?family=Caveat|Karla);
 .vh100 {
-  min-height: 100vh;
+  min-height: 100vh
 }
 
 .cursive {
-  font-family: 'Caveat', cursive;
+  font-family: Caveat, cursive
 }
+
 .sans-serif {
-  font-family: 'Karla', monospace;
+  font-family: Karla, monospace
 }
 
 input:empty {
-  box-shadow: none;
+  box-shadow: none
 }
 
 .charcoal {
-  color: #2d2926;
+  color: #2d2926
 }
