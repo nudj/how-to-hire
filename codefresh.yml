@@ -1,0 +1,36 @@
+version: '1.0'
+
+steps:
+
+  build:
+    title: Build
+    type: build
+    image_name: nudj/how-to-hire
+    tag: latest
+    dockerfile: Dockerfile
+
+  push_latest:
+    title: Push Latest
+    type: push
+    candidate: '${{build}}'
+    tag: latest
+    credentials:
+      username: '${{dockerUsername}}'
+      password: '${{dockerPassword}}'
+    when:
+      branch:
+        only:
+          - develop
+
+  push_release:
+    title: Push Release
+    type: push
+    candidate: '${{build}}'
+    tag: 0.1.0
+    credentials:
+      username: '${{dockerUsername}}'
+      password: '${{dockerPassword}}'
+    when:
+      branch:
+        only:
+          - master
